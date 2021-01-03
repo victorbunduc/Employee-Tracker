@@ -18,7 +18,7 @@
 1. Run `node employee-tracker.js` to start the application
 2. Select from the menu to view, add, remove, or update employees, roles, departments, or managers:
 
-    ![](images/menu.png)
+    
 
 3. Follow prompt if presented:
 
