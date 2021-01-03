@@ -1,11 +1,11 @@
-# Employee-Tracker
+# Employee Management System
 
-* The application gives yout the following options:
-* View all employees with the option by role, department, or manager
-* Add an employee, role, or department
-* Update an employee role or manager
-* Delete employee, role, or department
-* View department salary budgets
+# The application gives yout the following options:
+* View all employees with the option by role, department, or manager.
+* Add an employee, role, or department.
+* Update an employee role or manager.
+* Delete employee, role, or department.
+* View department salary budgets.
 
 ## Installation
 ---
@@ -15,7 +15,7 @@
 
 ## Usage
 ---
-1. Run `node employee-tracker.js` to start the application
+1. Run `node employee-tracker.js` to start the application.
 2. Select from the menu to view, add, remove, or update employees, roles, departments, or managers:
 
     ![menu](https://user-images.githubusercontent.com/71414528/103473881-264a6980-4d52-11eb-848e-215f54291ac5.gif)
