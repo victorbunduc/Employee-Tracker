@@ -34,5 +34,5 @@
     * [inquirer](https://www.npmjs.com/package/inquirer) 
    * [console.table](https://www.npmjs.com/package/console.table) 
     * [mysql](https://www.npmjs.com/package/mysql) 
-    * [promise-mysql](https://www.npmjs.com/package/promise-mysql) 
+    
 
