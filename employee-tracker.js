@@ -3,7 +3,7 @@ const inquirer = require("inquirer");
 const consoleTable = require("console.table");
 const promisemysql = require("promise-mysql");
 
-// Connection Properties
+// Connection Properties:
 const connectionProperties = {
     host: "localhost",
     port: 3306,
