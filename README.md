@@ -26,7 +26,7 @@ Employee Tracker is a CLI applicaiton for building and maintaining companies emp
 
     ![](images/sample.png)
 
-## Tool & Resources
+## Tools & Resources:
 ---
 * [Node.js](https://nodejs.org/en/) - JavaScript runtime environment
 * [MySQLWorkbench](https://www.mysql.com/products/workbench/) - Visual database design tool
